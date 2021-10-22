@@ -9,7 +9,7 @@ def main():
       input()
       den +=1
 def privitej():
-    print(f"Vítám tě, dobrodruhu." +
+    print(f"Salve, dobrodruhu." +
             "Pokusíš se nyní proslavit své jméno v aréně")
     jmeno = input("Jak se jmenuješ?  ")
     typ = ""
